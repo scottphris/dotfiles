@@ -1,0 +1,17 @@
+{
+    "alias": "",
+    "auto_connect": true,
+    "check_updates": false,
+    "config_version": 3,
+    "console-history": [],
+    "decimal_point": 8,
+    "fee_level": 1,
+    "gui_last_wallet": "/home/scott/.electrum/wallets/default_wallet",
+    "is_maximized": false,
+    "recently_open": [
+        "/home/scott/.electrum/wallets/default_wallet"
+    ],
+    "rpcpassword": "4kz4gvK3grD_bmqG6W51tQ==",
+    "rpcuser": "user",
+    "show_addresses_tab": true
+}
